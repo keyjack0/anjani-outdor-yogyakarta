@@ -1,3 +1,1 @@
-# Anjani Outdor Yogyakarta
-
-<h1 class="text-center">Anjani Outdor Yogyakarta</h1>
+<h1 align='center'>Anjani Outdor Yogyakarta</h1>
